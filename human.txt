@@ -6,5 +6,7 @@ fruits
 
 vegetable
 
+lasagna
+injera
 
 thanks!!!
