@@ -1,3 +1,7 @@
 human being
 
 animal
+
+fruits
+
+vegetable
