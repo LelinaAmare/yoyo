@@ -19,3 +19,6 @@ namespace FinalizingCheck.Models
         public DbSet<Employee> Employees { get; set; }
     }
 }
+
+
+//I DONT CHANGE YOU
